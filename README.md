@@ -11,7 +11,27 @@ mmcv 2.1.0
 ```
 ## datasets 
 ### datasets
-[]
+NWPU VHR-10 :  https://pan.baidu.com/s/1mifR6tU
+
+iSAID :  https://captain-whu.github.io/iSAID/index.html
+
+DIOR : http://www.escience.cn/people/JunweiHan/DIOR.html
+
+HRSID : https://pan.baidu.com/s/1z0-E3Lwdkg14feu1FwRf3g
+### structure
+``` bash
+── data
+│   ├── dior
+│   │   ├── Annotations
+│   │   ├── ImageSets
+│   │   └── JPEGImages
+│   ├── hrsid
+│   │   ├── annotations
+│   │   └── images
+│   └── vhr
+│       ├── annotations
+│       └── images
+```
 
 
 
